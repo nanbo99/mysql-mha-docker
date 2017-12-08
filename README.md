@@ -1,3 +1,4 @@
+亲测可用
 # mysql-mha-docker
 mysql mha docker compose
 
